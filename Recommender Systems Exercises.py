@@ -1,6 +1,6 @@
 # This code is to pick a song and have the code recommend a song
 # by another artist of your choice that is closest to the original
-# song that you picked based on energy and valence
+# song that you picked based on energy and valence using the Spotify API
 
 #########################################
 ##### Matching Songs Across Artists #####
